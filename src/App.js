@@ -1,7 +1,12 @@
 import './App.css';
+import Feedback from './Feedback/feedback';
 
 function App() {
-  return <div className="App">hello hw-2</div>;
+  return (
+    <div className="App">
+      <Feedback />
+    </div>
+  );
 }
 
 export default App;

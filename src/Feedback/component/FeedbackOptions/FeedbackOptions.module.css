@@ -1,0 +1,15 @@
+.block {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin-right: 25px;
+  background-color: #7ed561;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  color: white;
+}

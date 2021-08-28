@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import FeedbackOptions from './component/FeedbackOptions/FeedbackOptions';
-import Section from './component/section/Section';
-import Statistics from './component/Statistics/Statistics';
-import Notification from './component/Notification/Notification';
-import css from './feedback.module.css';
+import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
+import Section from '../Section/Section';
+import Statistics from '../Statistics/Statistics';
+import Notification from '../Notification/Notification';
+import css from './Feedback.module.css';
 
 class Feedback extends Component {
   state = {
